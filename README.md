@@ -20,6 +20,11 @@ Preguntas
 
     * Crear rama a partir de tarea con nombre = a Gobees
     en github nos situamos en Issues, pulsamos sobre el Issue que vamos a crear la rama y creamos la rama con el nombre del Issue.
+    ![Imagen de WhatsApp 2024-12-08 a las 23 00 26_0c3ff7a3](https://github.com/user-attachments/assets/8b14aeca-5718-48bd-b7d1-f74422c4ff4a)
+    ![Imagen de WhatsApp 2024-12-08 a las 23 00 44_245901dd](https://github.com/user-attachments/assets/883116b5-f56c-4877-b8ac-4f19ca27262f)
+    ![Imagen de WhatsApp 2024-12-08 a las 23 01 20_528cde2b](https://github.com/user-attachments/assets/63a6f03c-32d5-4411-a601-68f9c1ffdc82)
+
+
     * posicionarse en rama en local
       <img width="452" alt="foto 1" src="https://github.com/user-attachments/assets/f5d98c80-bcd1-46f0-a73a-7390ca297cdc">
 
@@ -30,7 +35,8 @@ Preguntas
     * Añadir cambios de carpeta gobees a la carpeta P3
       Copias todos los archivos del repositorio de go-bees al repositorio local de la práctica 3.
     (no hay que copiar la carpta .git)
-    -->foto 8
+   ![Imagen de WhatsApp 2024-12-08 a las 22 30 44_02c5783f](https://github.com/user-attachments/assets/21c74338-0ea4-4606-a3c4-1b340738e44e)
+
 
     * Git Stage all * Git commit
       <img width="302" alt="foto 2" src="https://github.com/user-attachments/assets/945623cf-fdd0-4e56-893d-ca3ff4d55f8c">
