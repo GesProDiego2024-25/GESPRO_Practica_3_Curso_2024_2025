@@ -26,6 +26,7 @@ Preguntas
 
 
     * posicionarse en rama en local
+      
       <img width="452" alt="foto 1" src="https://github.com/user-attachments/assets/f5d98c80-bcd1-46f0-a73a-7390ca297cdc">
 
     Una vez creada la rama en el github, hacemos fetch en gitkraken para ver la rama, nos aparecerá en el cuadro de "remote",
