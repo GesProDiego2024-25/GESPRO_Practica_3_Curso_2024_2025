@@ -39,11 +39,12 @@ Preguntas
 
 
     * Git Stage all * Git commit
-      <img width="302" alt="foto 2" src="https://github.com/user-attachments/assets/945623cf-fdd0-4e56-893d-ca3ff4d55f8c">
 
     Cuando guardemos los cambios en algún fichero del proyecto en atom, dicho fichero aparecerá	sobresaltado en naranja, esto querrá decir
     que no se ha sincronizado con el repositorio local, para ellos vamos a gitkraken y hacemos fetch para comprobar si ha habido cambios.
     Nos saldrá a la derecha que ha habido cambios entonces añadimos los cambios y hacemos el commit.
+
+    <img width="302" alt="foto 2" src="https://github.com/user-attachments/assets/945623cf-fdd0-4e56-893d-ca3ff4d55f8c">
    
     * Create PRQ (de nuestro proyecto a nuestro proyecto) master
     Cuando ya tienes todos los commits de la rama hechos, subes todos los cambios de tu rama a github y alli creas la pull request para sincronizar tu rama con la rama master, estonces la pull request necesita la aprovacion de otras     
