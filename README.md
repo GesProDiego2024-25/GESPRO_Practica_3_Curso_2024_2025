@@ -67,4 +67,57 @@ Preguntas
     <img width="483" alt="foto 6" src="https://github.com/user-attachments/assets/687ead0c-68a0-410f-9e46-c2cdb291251c">
 
 
+3) GitKraken
+   
+   - Gráfico obtenido con una captura de pantalla con la lista de commits del repositorio
+     ![image](https://github.com/user-attachments/assets/ed576826-ba99-4743-85d7-0f4b954b0f94)
+
+
+   - Captura del primer commit:
+  primer commit del repositorio:
+
+  ![image](https://github.com/user-attachments/assets/f0284eb4-a7fc-4301-89eb-311747fceb4a)
+
+  primer commit hecho por nosotros:
+
+  ![image](https://github.com/user-attachments/assets/30080a33-d7a2-45c5-aa57-29dfa23069b1)
+
+
+     
+   - Captura de pantalla del último commit:
+     Los commits que salen por encima del marcado se corresponden con cambios hechos en github para añadir imanges, ya que no sabiamos como hacerlo desde atom
+
+     ![image](https://github.com/user-attachments/assets/d6ec1d8d-cb76-4125-a862-df7c433e5361)
+
+4) GitHub
+   - La información del proyecto de Github obtenida desde la opción de menú "Insights→Pulse"
+   Elegimos para que muestre el periodo de 1 mes para poder ver todo el resumen del proyecto
+
+  ![image](https://github.com/user-attachments/assets/06537b35-eeeb-44b1-b5b5-1ac58373d917)
+
+  ![image](https://github.com/user-attachments/assets/3c27088d-d5fc-42f4-b5c0-8493097033f8)
+
+    
+   - La información del proyecto de Github obtenida desde la opción menú "Insights→ Code frequency"
+
+    ![image](https://github.com/user-attachments/assets/7053ff75-03ce-4aab-b0bb-39a046ee0c94)
+
+    El gráfico aparace de esa forma porque cuando creamos el proyecto añadimos todos los cambios de repositorio de go-bees, 
+    entonces al añadir muchos archivos ese día, el gráfico toma como valor máximo ese día y por eso parace que en los demás dias 
+    no se han realizado cambios, aunque si se hayan realizado.
+
+    Aqui podemos ver que el 8 de diciembre hicimos algunos cambios
+
+    ![image](https://github.com/user-attachments/assets/f9e2c879-b8cd-4c41-83af-22e7ad357e30)
+
+
+   - Captura con la relación de las PRQs realizadas cerradas
+
+     ![image](https://github.com/user-attachments/assets/838ee74e-e988-45ef-8071-516ec69dce18)
+
+    En la PRQ "improve docs 182" nos equivocamos y tuvimos que cerrarla y crear una nueva.
+    Aqui podemos ver también las issues sobre las que creamos las ramas y PRQs, todas cerradas ya que se cierran automáticamente cuando 
+    haces merge en una rama.
+
+    ![image](https://github.com/user-attachments/assets/142014e3-dd1b-4084-b492-2df8111ffcb9)
 
