@@ -100,24 +100,24 @@ Preguntas
     
    - La información del proyecto de Github obtenida desde la opción menú "Insights→ Code frequency"
 
-    ![image](https://github.com/user-attachments/assets/7053ff75-03ce-4aab-b0bb-39a046ee0c94)
+   ![image](https://github.com/user-attachments/assets/7053ff75-03ce-4aab-b0bb-39a046ee0c94)
 
-    El gráfico aparace de esa forma porque cuando creamos el proyecto añadimos todos los cambios de repositorio de go-bees, 
-    entonces al añadir muchos archivos ese día, el gráfico toma como valor máximo ese día y por eso parace que en los demás dias 
-    no se han realizado cambios, aunque si se hayan realizado.
+  El gráfico aparace de esa forma porque cuando creamos el proyecto añadimos todos los cambios de repositorio de go-bees, 
+  entonces al añadir muchos archivos ese día, el gráfico toma como valor máximo ese día y por eso parace que en los demás dias 
+  no se han realizado cambios, aunque si se hayan realizado.
 
-    Aqui podemos ver que el 8 de diciembre hicimos algunos cambios
+  Aqui podemos ver que el 8 de diciembre hicimos algunos cambios
 
-    ![image](https://github.com/user-attachments/assets/f9e2c879-b8cd-4c41-83af-22e7ad357e30)
+   ![image](https://github.com/user-attachments/assets/f9e2c879-b8cd-4c41-83af-22e7ad357e30)
 
 
    - Captura con la relación de las PRQs realizadas cerradas
 
      ![image](https://github.com/user-attachments/assets/838ee74e-e988-45ef-8071-516ec69dce18)
 
-    En la PRQ "improve docs 182" nos equivocamos y tuvimos que cerrarla y crear una nueva.
-    Aqui podemos ver también las issues sobre las que creamos las ramas y PRQs, todas cerradas ya que se cierran automáticamente cuando 
-    haces merge en una rama.
+   En la PRQ "improve docs 182" nos equivocamos y tuvimos que cerrarla y crear una nueva.
+   Aqui podemos ver también las issues sobre las que creamos las ramas y PRQs, todas cerradas ya que se cierran automáticamente cuando 
+   haces merge en una rama.
 
-    ![image](https://github.com/user-attachments/assets/142014e3-dd1b-4084-b492-2df8111ffcb9)
+   ![image](https://github.com/user-attachments/assets/142014e3-dd1b-4084-b492-2df8111ffcb9)
 
